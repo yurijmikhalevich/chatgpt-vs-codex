@@ -6,6 +6,7 @@
     <i>The image generated with <a href="https://labs.openai.com/" target="_blank">OpenAI DALL·E 2</a></i>
   </div>
 </div>
+<br/>
 
 This repo contains solutions to 10 Codeforces problems generated with ChatGPT and GitHub Copilot on 2023-02-13.
 
