@@ -4,7 +4,7 @@ This repo contains solutions to 10 Codeforces problems generated with ChatGPT an
 
 All 10 ChatGPT solutions fail the tests. 1/10 Codex solution, the one to the Polycarp and Coins problem, passes.
 
-<div align="center">
+<div align="center" style="margin-bottom: 20px">
   <img alt="ChatGPT vs. Codex (generated with DALL-E 2)" src="chatgpt-vs-codex.png" width="600px" />
   <div>
     <i>The image generated with <a href="https://labs.openai.com/" target="_blank">OpenAI DALL·E 2</a></i>
