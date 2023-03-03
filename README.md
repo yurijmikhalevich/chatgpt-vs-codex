@@ -1,9 +1,5 @@
 # ChatGPT vs. Codex (aka GitHub Copilot)
 
-This repo contains solutions to 10 Codeforces problems generated with ChatGPT and GitHub Copilot on 2023-02-13.
-
-All 10 ChatGPT solutions fail the tests. 1/10 Codex solution, the one to the Polycarp and Coins problem, passes.
-
 <div align="center">
   <img alt="ChatGPT vs. Codex (generated with DALL-E 2)" src="chatgpt-vs-codex.png" width="600px" />
   <div>
@@ -12,6 +8,10 @@ All 10 ChatGPT solutions fail the tests. 1/10 Codex solution, the one to the Pol
 </div>
 
 <br/><br/>
+
+This repo contains solutions to 10 Codeforces problems generated with ChatGPT and GitHub Copilot on 2023-02-13.
+
+All 10 ChatGPT solutions fail the tests. 1/10 Codex solution, the one to the Polycarp and Coins problem, passes.
 
 | | ChatGPT | Codex |
 | -- | -- | -- |
