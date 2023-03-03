@@ -6,7 +6,9 @@ All 10 ChatGPT solutions fail the tests. 1/10 Codex solution, the one to the Pol
 
 <div align="center">
   <img alt="ChatGPT vs. Codex (generated with DALL-E 2)" src="chatgpt-vs-codex.png" width="600px" />
-  <i>The image generated with <a href="https://labs.openai.com/" target="_blank">OpenAI DALL·E 2</a></i>
+  <div>
+    <i>The image generated with <a href="https://labs.openai.com/" target="_blank">OpenAI DALL·E 2</a></i>
+  </div>
 </div>
 
 | | ChatGPT | Codex |
